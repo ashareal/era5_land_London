@@ -1,0 +1,10 @@
+pandas
+numpy
+xarray
+netCDF4
+dask
+matplotlib
+statsmodels
+patsy
+cdsapi
+jupyterlab
