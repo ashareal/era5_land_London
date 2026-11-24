@@ -73,6 +73,8 @@ temperatures with ERA5-Land, and the MMT was 1.2 °C lower. This means that temp
 derived from station data, such as those used for heat–health warnings, cannot be applied directly
 to ERA5-Land data, and vice versa.
 
+Validation: the model was refitted in R with the dlnm package (05_dlnm_R_check.R) using the same specification; minimum-mortality temperatures, relative risks and confidence intervals were identical to two decimal places.
+
 ## Notebooks
 
 | Notebook | Content |
