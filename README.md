@@ -7,7 +7,7 @@ environmental epidemiology, as they provide complete, gridded temperature data a
 However, it is not always clear whether the choice of temperature source changes the estimated
 temperature–mortality relationship. In this project, I compared daily ERA5-Land temperature with
 station-based temperature in London (2002–2006) and estimated the temperature–mortality association
-with both, using a distributed lag non-linear model (DLNM) implemented in Python.
+with both, using a distributed lag non-linear model (DLNM) implemented in Python and R.
 
 ## Data
 
